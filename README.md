@@ -1,3 +1,4 @@
+这是我在我在别人处找到的资源用于自我提升
 # 🐙 Machine Learning Notebooks
 
 This repo contains machine learning notebooks for different tasks and applications. The notebooks are meant to be minimal, easily reusable, and extendable. You are free to use them for educational and research purposes.
